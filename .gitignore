@@ -1,0 +1,8 @@
+.idea
+.buildpath
+.project
+.settings
+.DS_Store
+build
+dist
+sync.sh
